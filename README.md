@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻I'm second year computer science student<br> 📚 I'm currently learning Spring and Spring boot<br>💻 I'm currently working on Journal App<br>📧 I’m open to work and looking for new opportunities. Feel free to reach me at itsharshhh6@gmail.com</p>
+<p align="left">👨🏻‍💻I'm second year computer science student<br> 📚 I'm currently learning Spring and Spring boot<br>💻 I'm currently working on Fully Qualified E-Commerce Application<br>📧 I’m open to work and looking for new opportunities. Feel free to reach me at itsharshhh6@gmail.com</p>
 
 ###
 
